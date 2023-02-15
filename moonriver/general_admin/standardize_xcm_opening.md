@@ -81,7 +81,7 @@ Disclosures up to date so long as they are supported by the [Moonbeam
 Dapp](https://apps.moonbeam.network).__  
 __For Historical XCM/HRMP Integrations:__ the Moonbeam Foundation 
 should consider requiring these Networks to provide the same Key 
-Disclosures as outlined above and post in the [Moonbeam Forum]
+Disclosures as outlined above and post in the [Moonbeam Community Forum]
 (https://forum.moonbeam.foundation). 
 __All Networks must make a good-faith effort to keep those Key 
 Disclosures up to date so long as they are supported by the [Moonbeam 
