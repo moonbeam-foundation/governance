@@ -19,7 +19,7 @@ moonbeam.network) to link to those Disclosures for assets supported in
 the [Moonbeam Dapp](https://apps.moonbeam.network) 
 ## XCM Channel Opening Governance Template and Required Key Disclosures
   -  __#1__  A draft of the Proposal must be posted in the [Moonbeam 
-Forum](https://forum.moonbeam.foundation) to the community to review, 
+[Moonbeam Community Forum](https://forum.moonbeam.foundation) to the community to review, 
 ask questions and provide suggestions. The Proposer must submit a draft 
 of their Proposal to an *XCM* Category in the Forum and tag *Moonbeam*.
      - While there is no required time the Draft Proposal should be 
