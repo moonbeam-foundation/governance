@@ -14,11 +14,10 @@ To help ensure the community is more informed on XCM/HRMP Channel
 openings, this proposal addresses two items: 
   -  __#1__ A standard template for Proposals to accept/open XCM/HRMP 
 channels to/from Moonriver, including __Required Key Disclosures__ 
-  -  __#2__ Suggested enhancement to the [Moonbeam Dapp](https://apps.
-moonbeam.network) to link to those Disclosures for assets supported in 
+  -  __#2__ Suggested enhancement to the [Moonbeam Dapp](https://apps.moonbeam.network) to link to those Disclosures for assets supported in 
 the [Moonbeam Dapp](https://apps.moonbeam.network) 
 ## XCM Channel Opening Governance Template and Required Key Disclosures
-  -  __#1__  A draft of the Proposal must be posted in the [Moonbeam 
+  -  __#1__  A draft of the Proposal must be posted in the
 [Moonbeam Community Forum](https://forum.moonbeam.foundation) to the community to review, 
 ask questions and provide suggestions. The Proposer must submit a draft 
 of their Proposal to an *XCM* Category in the Forum and tag *Moonriver*.
@@ -65,21 +64,16 @@ available, links to audit reports.*
 HRMP Channels supported in the Dapp. 
 The Moonbeam Foundation should consider including a link to the Key 
 Disclosures (outlined above) made in the respective networks' XCM/HRMP 
-Channel Opening Governance proposals in the [Moonbeam Dapp]
-(https://apps.moonbeam.network). It would be helpful to have these 
+Channel Opening Governance proposals in the [Moonbeam Dapp](https://apps.moonbeam.network). It would be helpful to have these 
 disclosures available in proximity to any assets supported through that 
 network integration. 
 Assuming this proposal moves forward and is approved by the community, 
-then all future networks that want[Moonbeam Dapp](https://apps.moonbeam.
-network) support would have these disclosures laid out the network's XCM
+then all future networks that want [Moonbeam Dapp](https://apps.moonbeam.network) support would have these disclosures laid out the network's XCM
 /HRMP Channel Opening Governance proposal. __The only additional ask is 
 for the Networks to make a good-faith effort to keep those Key 
-Disclosures up to date so long as they are supported by the [Moonbeam 
-Dapp](https://apps.moonbeam.network).__  
+Disclosures up to date so long as they are supported by the [Moonbeam Dapp](https://apps.moonbeam.network).__  
 __For Historical XCM/HRMP Integrations:__ the Moonbeam Foundation 
 should consider requiring these Networks to provide the same Key 
-Disclosures as outlined above and post in the [Moonbeam Community Forum]
-(https://forum.moonbeam.foundation). 
+Disclosures as outlined above and post in the [Moonbeam Community Forum](https://forum.moonbeam.foundation). 
 __All Networks must make a good-faith effort to keep those Key 
-Disclosures up to date so long as they are supported by the [Moonbeam 
-Dapp](https://apps.moonbeam.network).__
+Disclosures up to date so long as they are supported by the [Moonbeam Dapp](https://apps.moonbeam.network).__
