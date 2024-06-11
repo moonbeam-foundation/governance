@@ -2,18 +2,20 @@
 # Use of Parachain Bond Reserve to Fund Moonriver Grants (June 2024)
 
 ## TL;DR
-In April 2024, a [Forum post](https://forum.moonbeam.network/t/call-for-input-shaping-moonrivers-defi-strategy/1673) solicited community input to shape Moonriver’s DeFi strategy and explore using the parachain bond reserve. Three teams submitted proposals, and after a thorough evaluation, the [Beamswap](https://forum.moonbeam.network/t/beamswap-s-moonriver-ecosystem-grant-draft-proposal/1697) team was selected to receive funding. This proposal requests 96,909 MOVR from the Parachain Bond Reserve to fund:
+In April 2024, a [Forum post](https://forum.moonbeam.network/t/call-for-input-shaping-moonrivers-defi-strategy/1673) solicited community input to shape Moonriver’s DeFi strategy and explore using the parachain bond reserve. Three teams submitted proposals, and after a thorough evaluation, the [Beamswap](https://forum.moonbeam.network/t/beamswap-s-moonriver-ecosystem-grant-draft-proposal/1697) team was selected to receive funding (see [announcement](https://forum.moonbeam.network/t/call-for-input-shaping-moonrivers-defi-strategy/1673/15)). This proposal requests 96,909 MOVR from the Parachain Bond Reserve to fund:
 -   Beamswap’s V3 AMM Development: 10,025 MOVR    
 -   Liquidity in Beamswap’s AMM: 43,442 MOVR
 -   Liquidity in Moonwell’s Deployment: 43,442 MOVR
 -   Additional Community Initiatives (TBD): Up to 16,708 MOVR
+
+MOVR amounts are based on a total of USD 1.7M using a 30 day TWAP of the MOVR price as of June 6, 2024.
 
 The Beamswap funding will be released in stages, tied to key project milestones. Approval from the Moonriver community is requested to proceed.
 
 ## Context  
 In April 2024, a call was made for community input to shape Moonriver's DeFi strategy. The primary goals were to determine the level of community support and gather feedback on using the Moonriver Parachain Bond Reserve for this purpose. Additionally, the post aimed to identify project teams within the ecosystem interested in seeking grant funding for this initiative.
 
-Following the call, three teams submitted proposals. The current Grants Committee was assigned the task of evaluating these proposals. This comprehensive evaluation process involved:
+Following the call, three teams submitted proposals. The current Moonbeam Grants Committee (see [season 4 committee election results](https://forum.moonbeam.network/t/season-4-community-grant-committee-election-results/1661/)) was assigned the task of evaluating these proposals. This comprehensive evaluation process involved:
 -   thorough reviews of each proposal;    
 -   follow-up questions and constructive suggestions for improvement to each team;
 -   internal discussions and a voting process to determine the final recipient.
